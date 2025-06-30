@@ -1,11 +1,13 @@
 How to Manage Multiple ProtonMail Accounts? ✅
 ============================================
+.
+.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: login.png
+.. image:: signin.png
    :alt: My Project Logo
    :width: 400px
    :align: center
